@@ -1,6 +1,5 @@
 
 <properties>
-  <sonar.projectKey>ToHero12_test3</sonar.projectKey>
   <sonar.organization>tohero12</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
